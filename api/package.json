@@ -6,9 +6,26 @@
     "express": "^4.18.1",
     "jwt-simple": "^0.5.6",
     "moment": "^2.29.3",
-    "mongoose": "^6.3.6"
+    "mongoose": "^6.4.2"
   },
   "devDependencies": {
-    "nodemon": "^2.0.16"
-  }
+    "nodemon": "^2.0.18"
+  },
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThallesSorrilha/projeto-fullstack-web.git"
+  },
+  "author": "ThallesSorrilha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThallesSorrilha/projeto-fullstack-web/issues"
+  },
+  "homepage": "https://github.com/ThallesSorrilha/projeto-fullstack-web#readme",
+  "description": ""
 }
